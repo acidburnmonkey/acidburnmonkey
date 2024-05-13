@@ -37,7 +37,7 @@
 </table>
 
 
-![#acid](./src/whory.gif)
+<a href='#acidburn'><img src="./src/whory.gif" width="500" alt="hacktheplanet"></a>
 
 <!---
 acidburnmonkey/acidburnmonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,13 +1,40 @@
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-</p>
+<h3 align="left">Languages and Tools I Like to Use Often:</h3>
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Jsonnet" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="./src/docker.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+     <br> Docker
+    </td>
+    <td align="center" width="96">
+      <a >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96"> 
+      <a >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Photoshop
+    </td>
+  </tr>
+</table>
 
 
 

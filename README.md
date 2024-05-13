@@ -37,7 +37,7 @@
 </table>
 
 
-![](./src/whory.gif)
+![#acid](./src/whory.gif)
 
 <!---
 acidburnmonkey/acidburnmonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

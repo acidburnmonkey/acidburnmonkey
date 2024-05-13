@@ -37,8 +37,7 @@
 </table>
 
 
-
-  <img align="center" alt="Coding" width="400" src="https://c.tenor.com/d4CBDoxG63MAAAAd/hackers-hackers-movie.gif">
+![](./src/whory.gif)
 
 <!---
 acidburnmonkey/acidburnmonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

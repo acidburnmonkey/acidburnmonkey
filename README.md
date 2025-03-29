@@ -29,7 +29,7 @@
     </td>
     <td align="center" width="96"> 
       <a href='#acidburnmonkey'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Docker" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Photoshop
     </td>

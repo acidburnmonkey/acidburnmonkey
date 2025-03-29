@@ -11,7 +11,7 @@
     </td>
     <td align="center" width="96">
       <a href='#acidburnmonkey'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td>
@@ -23,15 +23,15 @@
     </td>
     <td align="center" width="96">
       <a href='#acidburnmonkey'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96"> 
       <a href='#acidburnmonkey'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="Docker" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="48" height="48" alt="react" />
       </a>
-      <br>Photoshop
+      <br>React
     </td>
   </tr>
 </table>

@@ -11,9 +11,9 @@
     </td>
     <td align="center" width="96">
       <a href='#acidburnmonkey'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="git" />
+        <img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="48" height="48" alt="git" />
       </a>
-      <br>Git
+      <br>Django
     </td>
     <td align="center" width="96">
       <a href='#acidburnmonkey'>

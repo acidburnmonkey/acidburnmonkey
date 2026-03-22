@@ -37,7 +37,6 @@
       <a href='#acidburnmonkey'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="48" height="48" alt="go" />
       </a>
-      <br>
       <br>Go
     </td>
   </tr>

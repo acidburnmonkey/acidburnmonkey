@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="96"> 
       <a href='#acidburnmonkey'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="48" height="60" alt="go" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="60" height="60" alt="go" />
       </a>
       <br>Go
     </td>

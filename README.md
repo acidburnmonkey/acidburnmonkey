@@ -33,11 +33,11 @@
       </a>
       <br>React
     </td>
-    <td align="bottom" width="96"> 
+    <td align="center" width="96"> 
       <a href='#acidburnmonkey'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="60" height="60" alt="go" />
       </a>
-      <br>Go
+      <br align="bottom">Go
     </td>
   </tr>
 </table>
